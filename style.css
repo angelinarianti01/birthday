@@ -344,22 +344,22 @@ body[question-num="q4"] #icon-hug {
 
 body[data-state="finished"] #icon-music {
     opacity: 1;
-    transform: translate(15px, 365px) rotate(-3deg);
+    transform: translate(15px, 370px) rotate(-3deg);
 }
 
 body[data-state="finished"] #icon-photo {
     opacity: 1;
-    transform: translate(5px, 350px) rotate(-2deg);
+    transform: translate(5px, 355px) rotate(-2deg);
 }
 
 body[data-state="finished"] #icon-eat {
     opacity: 1;
-    transform: translate(-2px, 349px) rotate(2deg);
+    transform: translate(-2px, 354px) rotate(2deg);
 }
 
 body[data-state="finished"] #icon-hug {
     opacity: 1;
-    transform: translate(-15px, 364px) rotate(20deg);
+    transform: translate(-15px, 369px) rotate(20deg);
 }
 
 
