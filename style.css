@@ -238,6 +238,8 @@ body {
 
 
 
+
+
 /* button label */
 
 .start-btn .label {
@@ -263,6 +265,7 @@ body[data-state="initial"] .start-btn,
 body[data-state="finished"] .start-btn {
     opacity: 1;
     pointer-events: auto;
+    border-radius: 50% 50% 50% 50% / 85% 85% 25% 25%;
 }
 
 body[btn-state="start"] .start-btn .label-start,
